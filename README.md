@@ -19,7 +19,7 @@ The goal is to compare **Agglomerative Hierarchical Clustering** and **DBSCAN** 
    ```bash
    jupyter notebook
    ```
-4. Open `MSCS_634_Lab_5_Clustering.ipynb` and run all cells in order.
+4. Open `MSCS_634_Lab_5.ipynb` and run all cells in order.
 
 ## Key Insights
 - **Agglomerative Hierarchical Clustering** with `n_clusters=3` produced clusters that aligned reasonably well with the three true wine classes. The Silhouette score was around 0.28, and both Homogeneity and Completeness scores were close to 0.79, indicating that the unsupervised clusters map fairly well onto the known labels.
